@@ -1,0 +1,694 @@
+filename,name,context,age,weight,sex,breed
+Mac-3-A-3.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-3-P-3.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-2-P-2d.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-2-P-2b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-2-A-2a..aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-2-P-2g.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-2-P-2f.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-2-P-2a.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-2-P-2c.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-2-A-2b.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-2-P-2e.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-8-P-8a.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-8-C-6b.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-8-P-8c.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-8-C-6c.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-8-P-8b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-8-A-8.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-8-C-6a.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-7-P-7b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-7-C-5a.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-7-C-5b.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-7-A-7.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-7-P-7a.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-7-C-5d.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-7-C-5c.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-P-9a.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-9-C-7c.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-C-7h.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-C-7g.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-P-9d.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-9-A-9.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-9-C-7a.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-C-7f.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-C-7e.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-C-7i.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-C-7b.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-P-9b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-9-C-7d.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-9-P-9c.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-5-C-3f.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-5-A-5.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-5-P-5b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-5-C-3j.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-5-C-3h.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-5-C-3a.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-5-C-3e.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-5-C-3b.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-5-C-3d.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-5-P-5a.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-5-C-3c.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-5-C-3i.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-11-A-11.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-11-C-9c.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-11-C-9a.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-11-C-9b.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-A-1b.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-1-C-1a.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-C-1f.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-C-1d.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-C-1c.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-C-1b.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-A-1c.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-1-C-1i.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-C-1h.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-C-1j.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-P-1c.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-1-C-1g.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-P-1a.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-1-C-1e.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-1-A-1a.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-1-P-1b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-10-C-8a.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-10-C-8c.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-10-P-10b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-10-C-8b.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-10-A-10.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-10-P-10c.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-10-P-10a.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-6-P-6b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-6-P-6c.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-6-P-6a.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-6-C-4.aif,Mac,contact,5,34,male,German shorthair pointer
+Mac-6-A-6.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-4-A-4.aif,Mac,aggression,5,34,male,German shorthair pointer
+Mac-4-P-4b.aif,Mac,play,5,34,male,German shorthair pointer
+Mac-4-P-4a.aif,Mac,play,5,34,male,German shorthair pointer
+Rudy-4-P-4b.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-4-A-4.aif,Rudy,aggression,11,32,male,German shorthair pointer
+Rudy-4-P-4a.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-2-P-2a.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-2-P-2d.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-2-P-2c.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-2-A-2.aif,Rudy,aggression,11,32,male,German shorthair pointer
+Rudy-2-P-2e.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-2-P-2b.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-1-A-1a.aif,Rudy,aggression,11,32,male,German shorthair pointer
+Rudy-1-A-1b.aif,Rudy,aggression,11,32,male,German shorthair pointer
+Rudy-1-P-1.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-5-P-5b.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-5-P-5c.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-5-P-5a.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-3-P-3c.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-3-P-3e.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-3-P-3d.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-3-P-3a.aif,Rudy,play,11,32,male,German shorthair pointer
+Rudy-3-A-3.aif,Rudy,aggression,11,32,male,German shorthair pointer
+Rudy-3-P-3b.aif,Rudy,play,11,32,male,German shorthair pointer
+Siggy-6-A-6.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-6-C-6c.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-6-C-6a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-6-C-6d.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-6-C-6b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-6-P-6a.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-6-P-6b.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-5-P-5a.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-5-C-5b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-5-P-5b.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-5-A-5.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-5-C-5c.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-5-P-5d.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-5-C-5a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-7-C-7b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-7-C-7a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-7-P-7c.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-7-P-7f.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-7-P-7b.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-7-P-7e.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-7-P-7a.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-7-A-7.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-9-C-9c.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-9-P-8b.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-9-C-9b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-9-C-9f.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-9-C-9a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-9-P-8a.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-9-C-9d.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-9-A-9.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-9-C-9e.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-2-A-2b.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-2-C-2c.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-2-A-2a.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-2-C-2a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-2-P-2.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-2-C-2b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-8-C-8b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-8-A-8.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-8-C-8a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-1-C-1d.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-1-C-1b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-1-C-1f.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-1-P-1.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-1-C-1g.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-1-C-1c.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-1-A-1.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-1-C-1a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-1-C-1e.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-3-C-3g.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-3-C-3e.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-3-C-3h.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-3-P-3b.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-3-C-3a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-3-P-3c.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-3-C-3f.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-3-C-3b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-3-C-3c.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-3-P-3d.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-3-A-3.aif,Siggy,aggression,11,36,male,German shorthair pointer
+Siggy-3-P-3a.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-3-C-3d.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-4-C-4d.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-4-C-4a.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-4-C-4b.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-4-P-4a.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-4-C-4c.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-4-C-4e.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-4-P-4b.aif,Siggy,play,11,36,male,German shorthair pointer
+Siggy-4-C-4f.aif,Siggy,contact,11,36,male,German shorthair pointer
+Siggy-4-P-4c.aif,Siggy,play,11,36,male,German shorthair pointer
+Louie-5-C-5b.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-5-C-5a.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-5-P-5.aif,Louie,play,2,19,male,Springer spaniel
+Louie-5-A-5c.aif,Louie,aggression,2,19,male,Springer spaniel
+Louie-5-A-5b.aif,Louie,aggression,2,19,male,Springer spaniel
+Louie-5-A-5a.aif,Louie,aggression,2,19,male,Springer spaniel
+Louie-1-C-1d.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-1-C-1b.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-1-A-1a_.aif,Louie,aggression,2,19,male,Springer spaniel
+Louie-1-A-1b.aif,Louie,aggression,2,19,male,Springer spaniel
+Louie-1-C-1e.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-1-P-1.aif,Louie,play,2,19,male,Springer spaniel
+Louie-1-C-1c.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-1-C-1f.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-1-C-1a.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-4-A-4.aif,Louie,aggression,2,19,male,Springer spaniel
+Louie-4-C-4b.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-4-P-4b.aif,Louie,play,2,19,male,Springer spaniel
+Louie-4-C-4a.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-4-P-4a.aif,Louie,play,2,19,male,Springer spaniel
+Louie-3-C-3b.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-3-C-3a.aif,Louie,contact,2,19,male,Springer spaniel
+Louie-3-P-3.aif,Louie,play,2,19,male,Springer spaniel
+Louie-3-A-3.aif,Louie,aggression,2,19,male,Springer spaniel
+Louie-3-C-3c.aif,Louie,contact,2,19,male,Springer spaniel
+Louis-2-A-2b.aif,Louie,aggression,2,19,male,Springer spaniel
+Louis-2-C-2e.aif,Louie,contact,2,19,male,Springer spaniel
+Louis-2-C-2c.aif,Louie,contact,2,19,male,Springer spaniel
+Louis-2-C-2a.aif,Louie,contact,2,19,male,Springer spaniel
+Louis-2-C-2b.aif,Louie,contact,2,19,male,Springer spaniel
+Louis-2-C-2d.aif,Louie,contact,2,19,male,Springer spaniel
+Louis-2-A-2a.aif,Louie,aggression,2,19,male,Springer spaniel
+Louis-2-P-2.aif,Louie,play,2,19,male,Springer spaniel
+Zoe-8-C-5a(7_18_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-8-C-5d(7_18_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-8-C-5c(7_18_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-8-C-5f(7_18_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-8-C-5e(7_18_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-8-C-5b(7_18_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-6-A-4(7_16_00).aif,Zoe,aggression,7,16,female,Australian cattle dog
+Zoe-6-P-5a(7_16_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-6-P-5c(7_16_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-6-P-5b(7_16_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-3-P-2.aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-9-P-6e(7_22_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-9-P-6f(7_22_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-9-P-6b(7_22_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-9-P-6c(7_22_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-9-P-6d(7_22_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-9-P-6a(7_22_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-9-P-6g(7_22_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-5-C-4g(7_14_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-5-C-4d(7_14_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-5-P-4c(7_14_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-5-C-4c(7_14_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-5-P-4b(7_14_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-5-C-4a(7_14_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-5-C-4b(7_14_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-5-A-3a(7_14_00).aif,Zoe,aggression,7,16,female,Australian cattle dog
+Zoe-5-C-4f(7_14_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-5-P-4a(7_14_00).aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-5-A-3b(7_14_00).aif,Zoe,aggression,7,16,female,Australian cattle dog
+Zoe-5-C-4e(7_14_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-5-C-4h(7_14_00).aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3f.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3j.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3m.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3g.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3L.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3e.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3b.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-A-3.aif,Zoe,aggression,7,16,female,Australian cattle dog
+Zoe-4-C-3h.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zzoe-4-C-3c.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3d.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3o.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3k.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3n.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-P-3b.aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-4-P-3a.aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-4-C-3a.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-4-C-3i.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-C-2c.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-C-2g.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-C-2a.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-C-2e.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-P-2.aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-2-C-2f.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-C-2h.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-A-2b.aif,Zoe,aggression,7,16,female,Australian cattle dog
+Zoe-2-C-2d.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-C-2b.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-2-A-2a.aif,Zoe,aggression,7,16,female,Australian cattle dog
+Zoe-1-P-1c.aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-1-C-1c.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-1-C-1d.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-1-P-1a.aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-1-P-1d.aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-1-C-1a.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-1-C-1g.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-1-C-1f.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-1-C-1e.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-1-C-1h.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-1-P-1b.aif,Zoe,play,7,16,female,Australian cattle dog
+Zoe-1-C-1b.aif,Zoe,contact,7,16,female,Australian cattle dog
+Zoe-1-A-1.aif,Zoe,aggression,7,16,female,Australian cattle dog
+Zoe-7-A-5(7_17_00).aif,Zoe,aggression,7,16,female,Australian cattle dog
+Roodie-4-P-4f.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-4-P-4a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-4-C-4c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-C-4d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-C-4j.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-C-4a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-P-4c.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-4-C-4f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-P-4e.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-4-P-4d.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-4-C-4h.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-P-4b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-4-A-3.aif,Roodie,aggression,12,18,male,Australian cattle dog
+Roodie-4-C-4b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-C-4e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-C-4i.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-4-C-4g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-P-1a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-P-1e.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-C-1a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-P-1c.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-C-1g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-C-1h.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-C-1i.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-C-1d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-P-1d.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-P-1h.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-C-1e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-C-1f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-P-1i.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-P-1g.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-C-1j.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-C-1c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-C-1k.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-C-1b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-1-P-1b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-P-1f.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-1-C-1L.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3L.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3m.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-A-2.aif,Roodie,aggression,12,18,male,Australian cattle dog
+Roodie-3-C-3f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-P-3c.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-3-P-3d.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-3-C-3c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3k.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3j.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-P-3b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-3-P-3a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-3-C-3h.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-3-C-3i.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-7-A-6.aif,Roodie,aggression,12,18,male,Australian cattle dog
+Roodie-7-C-7d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-7-P-7c.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-7-P-7a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-7-C-7g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-7-P-7b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-7-C-7e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-7-C-7f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-7-C-7c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-7-C-7a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-7-C-7b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-7-C-7h.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-C-2a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-A-2b.aif,Roodie,aggression,12,18,male,Australian cattle dog
+Roodie-2-C-2L.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-C-2d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-C-2h.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-P-1a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-2-C-2b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-C-2e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-C-2j.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-P-2c.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-2-C-2c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-P-2d.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-2-C-2f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-A-2a.aif,Roodie,aggression,12,18,male,Australian cattle dog
+Roodie-2-P-2f.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-2-P-2e.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-2-P-2b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-2-C-2i.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-C-2g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-2-C-2k.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5j.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5L.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-P-5b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-5-P-5a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-5-C-5d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5i.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5k.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5h.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-C-5a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-5-P-5c.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-5-A-4.aif,Roodie,aggression,12,18,male,Australian cattle dog
+Roodie-9-C-9c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-9-C-9a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-9-P-9b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-9-C-9f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-9-C-9g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-9-P-9c.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-9-P-9a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-9-C-9i.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-9-C-9b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-9-C-9e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-9-C-9d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-P-6b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-6-C-6h.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-A-5.aif,Roodie,aggression,12,18,male,Australian cattle dog
+Roodie-6-C-6f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-P-6a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-6-C-6k.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6i.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6m.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6L.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-6-C-6j.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8b.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8o.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8p.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8m.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8f.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8i.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-P-8c.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-8-C-8a.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8g.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8c.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8d.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8L.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8e.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8q.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-A-7.aif,Roodie,aggression,12,18,male,Australian cattle dog
+Roodie-8-P-8b.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-8-P-8a.aif,Roodie,play,12,18,male,Australian cattle dog
+Roodie-8-C-8h.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8k.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8n.aif,Roodie,contact,12,18,male,Australian cattle dog
+Roodie-8-C-8j.aif,Roodie,contact,12,18,male,Australian cattle dog
+Farley-5-C-5b.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-5-C-5h.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-5-P-5a.aif,Farley,play,3,25,male,Australian shepherd
+Farley-5-A-4b.aif,Farley,aggression,3,25,male,Australian shepherd
+Farley-5-C-5d.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-5-C-5c.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-5-P-5b.aif,Farley,play,3,25,male,Australian shepherd
+Farley-5-A-4a.aif,Farley,aggression,3,25,male,Australian shepherd
+Farley-5-C-5f.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-5-C-5g.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-5-C-5a.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-7-C-5a.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-7-C-5f.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-7-C-5c.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-7-P-7.aif,Farley,play,3,25,male,Australian shepherd
+Farley-7-C-5.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-7-C-5d.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-7-C-5e.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-7-A-6.aif,Farley,aggression,3,25,male,Australian shepherd
+Farley-1-C-1g.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-1-C-1f.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-1-C-1c.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-1-C-1h.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-1-C-1a.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-1-C-1b.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-1-P-1a.aif,Farley,play,3,25,male,Australian shepherd
+Farley-1-C-1e.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-1-P-1b.aif,Farley,play,3,25,male,Australian shepherd
+Farley-1-A-1.aif,Farley,aggression,3,25,male,Australian shepherd
+Farley-4-C-4b.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-4-C-4e.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-4-C-4c.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-4-P-4.aif,Farley,play,3,25,male,Australian shepherd
+Farley-4-A-4.aif,Farley,aggression,3,25,male,Australian shepherd
+Farley-4-P-4d.aif,Farley,play,3,25,male,Australian shepherd
+Farley-4-C-4a.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-2-P-2a.aif,Farley,play,3,25,male,Australian shepherd
+Farley-2-P-2b.aif,Farley,play,3,25,male,Australian shepherd
+Farley-2-C-2b.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-2-C-2c.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-2-C-2a.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-3-C-3c.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-3-C-3b.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-3-C-3a.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-3-A-3.aif,Farley,aggression,3,25,male,Australian shepherd
+Farley-8-P-8.aif,Farley,play,3,25,male,Australian shepherd
+Farley-8-A-7.aif,Farley,aggression,3,25,male,Australian shepherd
+Farley-8-C-6b.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-8-C-6c.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-8-C-6a.aif,Farley,contact,3,25,male,Australian shepherd
+Farley-6-P-6.aif,Farley,play,3,25,male,Australian shepherd
+Farley-6-A-5.aif,Farley,aggression,3,25,male,Australian shepherd
+Keri-8-C-6f.aif,Keri,contact,4,34,female,Labrador mix
+Keri-8-C-6a.aif,Keri,contact,4,34,female,Labrador mix
+Kerik-8-C-6d.aif,Keri,contact,4,34,female,Labrador mix
+Keri-8-P-8a.aif,Keri,play,4,34,female,Labrador mix
+Keri-8-C-6c.aif,Keri,contact,4,34,female,Labrador mix
+Keri-8-P-8c.aif,Keri,play,4,34,female,Labrador mix
+Keri-8-A-7.aif,Keri,aggression,4,34,female,Labrador mix
+Keri-8-C-6b.aif,Keri,contact,4,34,female,Labrador mix
+Keri-8-C-6e.aif,Keri,contact,4,34,female,Labrador mix
+Keri-5-P-5c.aif,Keri,play,4,34,female,Labrador mix
+Keri3-A-3a.aif,Keri,aggression,4,34,female,Labrador mix
+Keri3-A-3c.aif,Keri,aggression,4,34,female,Labrador mix
+Keri3-A-3b.aif,Keri,aggression,4,34,female,Labrador mix
+Keri-4-P-4c.aif,Keri,play,4,34,female,Labrador mix
+Keri-7-C-5e.aif,Keri,contact,4,34,female,Labrador mix
+Keri-7-P-7c.aif,Keri,play,4,34,female,Labrador mix
+Keri-7-P-7d.aif,Keri,play,4,34,female,Labrador mix
+Keri-7-C-5g.aif,Keri,contact,4,34,female,Labrador mix
+Keri-7-A-7b.aif,Keri,aggression,4,34,female,Labrador mix
+Keri-7-C-5b.aif,Keri,contact,4,34,female,Labrador mix
+Keri-7-C-5d.aif,Keri,contact,4,34,female,Labrador mix
+Keri-7-P-7a.aif,Keri,play,4,34,female,Labrador mix
+Keri-7-P-5f.aif,Keri,play,4,34,female,Labrador mix
+Keri-7-P-7b.aif,Keri,play,4,34,female,Labrador mix
+Keri-7-C-5c.aif,Keri,contact,4,34,female,Labrador mix
+Keri-7-C-5h.aif,Keri,contact,4,34,female,Labrador mix
+Keri-7-A-7.aif,Keri,aggression,4,34,female,Labrador mix
+Keri-7-C-5a.aif,Keri,contact,4,34,female,Labrador mix
+Keri-A-2b.aif,Keri,aggression,4,34,female,Labrador mix
+Keri-A-3c.aif,Keri,aggression,4,34,female,Labrador mix
+Keri-A-2a.aif,Keri,aggression,4,34,female,Labrador mix
+Keri-C-2.aif,Keri,contact,4,34,female,Labrador mix
+Keri-P-2.aif,Keri,play,4,34,female,Labrador mix
+Keri-6-P-6a.aif,Keri,play,4,34,female,Labrador mix
+Keri-6-C-4a.aif,Keri,contact,4,34,female,Labrador mix
+Keri-6-A-6.aif,Keri,aggression,4,34,female,Labrador mix
+Keri-6-P-6c.aif,Keri,play,4,34,female,Labrador mix
+Keri-6-P-6e.aif,Keri,play,4,34,female,Labrador mix
+Keri-6-P-6d.aif,Keri,play,4,34,female,Labrador mix
+Keri-P-1a.aif,Keri,play,4,34,female,Labrador mix
+Keri-P-1b.aif,Keri,play,4,34,female,Labrador mix
+Keri-A-1b.aif,Keri,aggression,4,34,female,Labrador mix
+Freid-A-7.aif,Freid,aggression,5,6,male,Dachsund
+Freid-P-7d.aif,Freid,play,5,6,male,Dachsund
+Freid-P-7c.aif,Freid,play,5,6,male,Dachsund
+Freid-P-7b.aif,Freid,play,5,6,male,Dachsund
+Freid-P-7a.aif,Freid,play,5,6,male,Dachsund
+Freid-P-3a.aif,Freid,play,5,6,male,Dachsund
+Freid-A-3.2.aif,Freid,aggression,5,6,male,Dachsund
+Freid3-A-3.1.aif,Freid,aggression,5,6,male,Dachsund
+Freid-P-3c.aif,Freid,play,5,6,male,Dachsund
+Freid-P-3b.aif,Freid,play,5,6,male,Dachsund
+Freid-2-P-2b.aif,Freid,play,5,6,male,Dachsund
+Freid-2-A-2.aif,Freid,aggression,5,6,male,Dachsund
+Freid-2-P-2a.aif,Freid,play,5,6,male,Dachsund
+Freid-2-P-2e.aif,Freid,play,5,6,male,Dachsund
+Freid-2-P-2c.aif,Freid,play,5,6,male,Dachsund
+Freid-2-P-2d.aif,Freid,play,5,6,male,Dachsund
+Freid-2-P-2f.aif,Freid,play,5,6,male,Dachsund
+Freid-A-8a.aif,Freid,aggression,5,6,male,Dachsund
+Fried-P-8a.aif,Freid,play,5,6,male,Dachsund
+Freid-P-8b.aif,Freid,play,5,6,male,Dachsund
+Freid-P-8c.aif,Freid,play,5,6,male,Dachsund
+Freid-P-8d.aif,Freid,play,5,6,male,Dachsund
+Fried-5-P-5e.aif,Freid,play,5,6,male,Dachsund
+Freid-5-P-5c.aif,Freid,play,5,6,male,Dachsund
+Freid-5-A-5.aif,Freid,aggression,5,6,male,Dachsund
+Freid-5-P-5b.aif,Freid,play,5,6,male,Dachsund
+Freid-5-P-5d.aif,Freid,play,5,6,male,Dachsund
+Freid-4-P-4a.aif,Freid,play,5,6,male,Dachsund
+Freid-4-P-4b.aif,Freid,play,5,6,male,Dachsund
+Freid4-P-4d.aif,Freid,play,5,6,male,Dachsund
+Freid4-A-4.1.aif,Freid,aggression,5,6,male,Dachsund
+Freid4-P-4c.aif,Freid,play,5,6,male,Dachsund
+Freid4-A-4.2.aif,Freid,aggression,5,6,male,Dachsund
+Fried-1-P-1a.aif,Freid,play,5,6,male,Dachsund
+Freid-1-P-1b.aif,Freid,play,5,6,male,Dachsund
+Fried-1-A-1.aif,Freid,aggression,5,6,male,Dachsund
+Freid-P-6a.aif,Freid,play,5,6,male,Dachsund
+Freid-A-6.aif,Freid,aggression,5,6,male,Dachsund
+Freid-A-6b.aif,Freid,aggression,5,6,male,Dachsund
+Luke-6-C-6c.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-6-C-6b.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-6-C-6h.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-6-P-6a.aif,Luke,play,5,25,male,Australian shepherd
+Luke-6-C-6d.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-6-A-5b.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-6-P-6.aif,Luke,play,5,25,male,Australian shepherd
+Luke-7-C-7e.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-6-A-5a.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-6-C-6g.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-6-C-6f.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-6-A-5c.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-C-4e.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-A-4.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-P-4d.aif,Luke,play,5,25,male,Australian shepherd
+Luke-C-4d.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-4a.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-4b.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-4b.aif,Luke,play,5,25,male,Australian shepherd
+Luke-C-4c.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-4c.aif,Luke,play,5,25,male,Australian shepherd
+Luke-P-4a.aif,Luke,play,5,25,male,Australian shepherd
+Luke-A-2c.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-C-2L.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-A-2d.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-C-2a.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2p.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2N.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2i.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2m.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-A-2b.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-C-2c.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2R.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2o.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2t.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2s.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-2.aif,Luke,play,5,25,male,Australian shepherd
+Luke-C-2b.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2j.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2k.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2h.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2d.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2g.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2e.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2f.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-2q.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-A-3b.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-A-3a.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-C-3q.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3b.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3r.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3k.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3n.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3h.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3f.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3L.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3c.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3p.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3e.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3d.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3t.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3g.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3m.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3s.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3j.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3i.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3a.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-3o.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-1h.aif,Luke,play,5,25,male,Australian shepherd
+Luke-C-1L.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-1g.aif,Luke,play,5,25,male,Australian shepherd
+Luke-A-1r.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-A-1s.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-C-1f.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-1e.aif,Luke,play,5,25,male,Australian shepherd
+Luke-P-1d.aif,Luke,play,5,25,male,Australian shepherd
+Luke-C-1h.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-1e.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-1b.aif,Luke,play,5,25,male,Australian shepherd
+Luke-C-1g.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-1b.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-1c.aif,Luke,play,5,25,male,Australian shepherd
+Luke-C-1i.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-1a.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-1o.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-1c.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-1d.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-P-1a.aif,Luke,play,5,25,male,Australian shepherd
+Luke-P-1f.aif,Luke,play,5,25,male,Australian shepherd
+Luke-C-1k.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-A-1q.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-C-1n.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-1m.aif,Luke,contact,5,25,male,Australian shepherd
+luke-C-1p.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-C-1j.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-A-5b.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-5-C-5o.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5s.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5h.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-P-4b.aif,Luke,play,5,25,male,Australian shepherd
+Luke-5-C-5n.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-A-4a.aif,Luke,aggression,5,25,male,Australian shepherd
+Luke-5-C-5j.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5d.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5k.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5g.aif,Luke,contact,5,25,male,Australian shepherd
+luke-5-C-5i.aif,Luke,contact,5,25,male,Australian shepherd
+luke-5-C-5m.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5b.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5c.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5q.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5a.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-P-4a.aif,Luke,play,5,25,male,Australian shepherd
+Luke-5-C-5L.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5r.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5f.aif,Luke,contact,5,25,male,Australian shepherd
+Luke-5-C-5e.aif,Luke,contact,5,25,male,Australian shepherd
+Freid-A-3.1 .wav,Freid,aggression,5,6,male,Dachsund
+Freid-P-8d.wav,Freid,play,5,6,male,Dachsund
+Freid-P-8b.wav,Freid,play,5,6,male,Dachsund
+Freid-P-8c.wav,Freid,play,5,6,male,Dachsund
+Fried-P-8a.wav,Freid,play,5,6,male,Dachsund
+Freid-A-8a.wav,Freid,aggression,5,6,male,Dachsund
